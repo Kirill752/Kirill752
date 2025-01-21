@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Kirill_Latyshov)](https://leetcode.com/Kirill_Latyshov)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Kirill_Latyshov)](https://leetcode.com/Kirill_Latyshov?ext=heatmap)
 <!--
 **Kirill752/Kirill752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
