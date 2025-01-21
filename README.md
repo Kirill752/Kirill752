@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Leetcode Stats][(https://leetcode.com/u/E3dcGrJ0X1/)](https://leetcode.com/u/E3dcGrJ0X1/)
+[![Leetcode Stats](https://leetcode.com/u/E3dcGrJ0X1/)](https://leetcode.com/u/E3dcGrJ0X1/)
 <!--
 **Kirill752/Kirill752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
